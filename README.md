@@ -12,13 +12,14 @@ Gameplay:
 
 UML:
 - https://mm.tt/app/map/3302668869?t=kWnCmKw2EI
-- https://lucid.app/lucidchart/c8d17d7f-7869-449b-92e1-f9061610840e/edit?view_items=rYmJi63TdFoc&invitationId=inv_a3eb7eb9-eccb-46b4-9034-783930a4a771
+- https://app.diagrams.net/#G1WfX9cAL6IsmGi3ZM-pa7NOpWG2Ne4AUJ#%7B%22pageId%22%3A%22ZWiythRC89rxOTnF1GFQ%22%7D
 
 Sẽ viết code dựa trên: 
 - https://github.com/arminkz/PlantsVsZombies
 - https://github.com/TheExploration/Plants-Vs-Zombies?tab=readme-ov-file
 
 ~~
+
 
 
 
