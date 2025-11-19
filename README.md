@@ -20,17 +20,8 @@ Sẽ viết code dựa trên:
 - https://github.com/TheExploration/Plants-Vs-Zombies?tab=readme-ov-file
 
 ~~
-# Final design:
-![Alt text](/../main/mainmenu1.png?raw=true "mainmenu1")
-![Alt text](/../main/lawn2.5.png?raw=true "lawn2.5")
 
-![Alt text](/../main/UML-Mindmap.png?raw=true "UML-Mindmap")
-![Alt text](/../main/mainmenu.png?raw=true "mainmenu")
-# Second design:
-![Alt text](/../main/Quangcao3.png?raw=true "Quangcao3")
-# First design:
-![Alt text](/../main/Quangcao1.png?raw=true "Quangcao1")
-![Alt text](/../main/Quangcao2.jpg?raw=true "Quangcao2")
+
 
 
 
