@@ -3,7 +3,7 @@ About, Supported By: https://www.greenfoot.org/overview
 
 PvZ by deeptry group
 
-Vào Link này, add mail để trở thành collab để commit code: https://github.com/dominhduy09/PvZ-deeptry
+Vào Link này, add mail để trở thành collab để commit code: https://github.com/phucan08/PvZGame
 
 Video cách commit code: https://www.youtube.com/watch?v=lYiE5lBS13E
 
@@ -26,11 +26,6 @@ First design:
 Second design:
 - https://www.canva.com/design/DAGGiWoK2Z0/0L35AwetMHCm-N3Vb4jg7g/edit?utm_content=DAGGiWoK2Z0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Game PvZ:
-- Duy: làm UML, làm Zomebie class, làm ReadmeTXT, làm MainActor.
-- Quang: làm UML, World class.
-- Ann: làm Zombie, làm IdleZombie, làm Plant, làm Slides.
-- Khang: làm SeedPacket, làm TransparentObj, làm Report.
 
 Dự định sẽ thêm theme mới và thêm level mới, hiện tại chỉ có 2 lv
 
@@ -46,4 +41,5 @@ Dự định sẽ thêm theme mới và thêm level mới, hiện tại chỉ c�
 # First design:
 ![Alt text](/../main/Quangcao1.png?raw=true "Quangcao1")
 ![Alt text](/../main/Quangcao2.jpg?raw=true "Quangcao2")
+
 
