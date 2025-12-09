@@ -35,7 +35,7 @@ public class More extends Button
             if (Greenfoot.mouseClicked(this)) {
                 clicked = true;
                 try{
-                    Desktop.getDesktop().browse(new URL("https://github.com/dominhduy09/PvZ-deeptry").toURI());
+                    Desktop.getDesktop().browse(new URL("https://github.com/phucan08/PVZGame").toURI());
                 }
             catch (Exception e)
                 {}
